@@ -9,3 +9,4 @@ db = SQLAlchemy(app)
 bcrypt = Bcrypt(app)
 
 from flaskblog import routes
+# comment
