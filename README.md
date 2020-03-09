@@ -1,6 +1,13 @@
-# Guide to this bastard file
+# Flask app 
 
-edit the shite out of it
-push it to git
+based on Corey Schafer tutorial
 
-no be rat
+currently completed:
+
+created sql database
+created site
+turned into a package
+
+next step:
+
+add encryption and password storage
